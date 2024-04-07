@@ -1,1 +1,1 @@
-FROM ghcr.io/home-assistant/home-assistant:stable
+FROM --platform=linux/arm64/v8 ghcr.io/home-assistant/home-assistant:stable
